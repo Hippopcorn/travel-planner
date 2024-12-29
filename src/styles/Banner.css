@@ -1,0 +1,15 @@
+.banner {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    background-color: rgb(83, 129, 114);
+}
+
+h1 {
+    color : rgb(144, 223, 197);
+}
+
+.travel-logo {
+    height: 100px;
+    margin: 0 50px 0 50px;
+}

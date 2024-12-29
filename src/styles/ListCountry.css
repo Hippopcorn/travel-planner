@@ -1,0 +1,11 @@
+.list-country {
+    color: rgb(88, 63, 168);
+    display: flex;
+    justify-content: space-around;
+}
+
+.country {
+    border: solid;
+    padding: 50px;
+    border-radius: 5px;
+}
